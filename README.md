@@ -1,2 +1,2 @@
 # rae_repo
- Repository containing code for EC331 RAE project on trading algorithms and market efficiency.
+ This repository contains all the code for the undergraduate dissertation of Karan Garg (EC331: Topics in Applied Economics at the University of Warwick). The aim of the project is to explore the impact on market efficiency of increased proportions of algorithmic traders. This is done by setting up a simulation of a single-asset market with heterogeneous investors and then incrementally increasing the proportion of market participants who are not "human" but instead based on machine learning methods. 
